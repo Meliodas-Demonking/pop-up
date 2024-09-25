@@ -34,22 +34,22 @@
 </head>
 <body>
 		<div class="prod">
-			  <img src="image\PUMAxLuffy.jpg" width="150px" height="150px" alt="PUMAxLuffy">
+			  <img src="PUMAxLuffy.jpg" width="150px" height="150px" alt="PUMAxLuffy">
 			  <h3 align="center">PUMA x Luffy Sneakers</h3>
 			  <p align="center"><button>Add to Cart</button></p>
 		</div>
 		<div class="prod">
-			<img src="image\PUMAxShanks.jpg" width="150px" height="150px" alt="PUMAxShanks">
+			<img src="PUMAxShanks.jpg" width="150px" height="150px" alt="PUMAxShanks">
 			<h3 align="center">PUMA x Shanks Sneakers</h3>
 			<p align="center"><button>Add to Cart</button></p>
 		</div>
 		<div class="prod">
-			<img src="image\PUMAxBuggy.jpg" width="150px" height="150px" alt="PUMAxBuggy">
+			<img src="PUMAxBuggy.jpg" width="150px" height="150px" alt="PUMAxBuggy">
 			<h3 align="center">PUMA x Buggy Sneakers</h3>
 			<p align="center"><button>Add to Cart</button></p>
 		</div>
 		<div class="prod">
-			<img src="image\PUMAxBlackbeard.jpg" width="150px" height="150px" alt="PUMAxBlackbeard">
+			<img src="PUMAxBlackbeard.jpg" width="150px" height="150px" alt="PUMAxBlackbeard">
 			<h3 align="center">PUMA x Teech Sneakers</h3>
 			<p align="center"><button>Add to Cart</button></p>
 		</div>
